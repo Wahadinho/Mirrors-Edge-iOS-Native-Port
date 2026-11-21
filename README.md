@@ -1,4 +1,4 @@
-# Mirror's Edge (2008) — Native iOS & iPadOS Port (Static Recompilation + Metal)
+# Mirror's Edge (PC, 2008) — Native iOS & iPadOS Port (Static Recompilation + Metal)
 
 A native iOS & iPadOS port of **Mirror's Edge (2008)** built on top of [`macMirror`]([https://github.com](https://github.com/captain-courageous/macMirror) by *captain-courageous* (static x86-to-C recompilation + native Direct3D 9 to Apple Metal translation layer).
 
