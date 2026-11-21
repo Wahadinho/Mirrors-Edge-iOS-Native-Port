@@ -1,0 +1,11 @@
+build/
+build-ios/
+*.ipa
+.DS_Store
+GameData/
+pc-deps/
+ShaderCache/
+ios_packaging/compiled_assets/
+ios_packaging/Assets.xcassets/AppIcon.appiconset/*.png
+src/lifted/
+work/
